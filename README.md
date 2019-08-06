@@ -6,11 +6,11 @@ A usdfork full node for Zcash used for building applications and services with N
 ## Explorer Guide
 ### Part 1. Zcash with extended RPC functionalities
 ```bash
-wget -qO- https://raw.githubusercontent.com/usdfork/bitcore-node-zecmate/master/installbitzecd.sh | bash
+wget -qO- https://raw.githubusercontent.com/usdfork/bitcore-node-zecmate/zcash/installbitzecd.sh | bash
 ```
 ### Part 2. Latest usdfork insight explorer = bitcore-node-zecmate with insight-api and insight-ui
 ```bash
-wget -qO- https://raw.githubusercontent.com/usdfork/bitcore-node-zecmate/master/installExplorer.sh | bash
+wget -qO- https://raw.githubusercontent.com/usdfork/bitcore-node-zecmate/zcash/installExplorer.sh | bash
 ```
 ## Install
 
